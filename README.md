@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zhuzhu930
-- 👀 I’m interested in learning languages, traveling, cooking, gardening, etc.
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- Currently enrolled at the Georgia Tech Coding Boot Camp, I'm currently learning web development skills. 
 - 💞️ I’m looking to collaborate on front end web development
 - 📫 How to reach me via email: zhuzhu930@yahoo.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhuzhu930
-- Currently enrolled at the Georgia Tech Coding Boot Camp, I'm currently learning web development skills. 
-- 💞️ I’m looking to collaborate on front end web development
-- 📫 How to reach me via email: zhuzhu930@yahoo.com
+- I'm currently enrolled at the Georgia Tech Coding Boot Camp, learning web development skills. 
+- 💞️ Though I'm just an novice web developer, I'm passionate about what I do and love to learn more. 
+- 📫 You can reach me via email: zhuzhu93028@gmail.com
 
 <!---
 zhuzhu930/zhuzhu930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

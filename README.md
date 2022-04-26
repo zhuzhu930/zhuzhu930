@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhuzhu930
 - I'm currently enrolled at the Georgia Tech Coding Boot Camp, learning web development skills. 
-- 💞️ Though I'm just an novice web developer, I'm passionate about what I do and love to learn more. 
+- 💞️ Though I'm just a novice web developer, I'm passionate about what I do and love to learn more. 
 - 📫 You can reach me via email: zhuzhu93028@gmail.com
 
 <!---

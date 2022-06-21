@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Jessie Doherty. 
 - I'm currently enrolled at the Georgia Tech Coding Boot Camp, learning web development skills. 
-- Technologies that I'm learning include: HTML5, CSS3, JavaScript, jQuery, Progressive Web Apps, Agile Methodology, Bootstrap, React.js, Express.js, Node.js, MongoDB, MySQL, Command Line, Git, etc. 
-- 💞️ Though I'm just a novice web developer, I'm passionate about what I do and love to learn more. 
+- Technologies that I'm learning include: HTML5, CSS3, JavaScript, jQuery, Progressive Web Apps, Agile Methodology, Bootstrap, React.js, Express.js, NPM packages, Node.js, MongoDB, MySQL, Command Line, Git, etc. 
+- 💞️ Being a novice web developer, I'm excited to learn more, and passionate to be a full-stack web developer. 
+- Specifically, I'm very interested in MOOC learning platforms and would love to know and study how to present the best MOOC platforms. 
 - 📫 You can reach me via email: zhuzhu93028@gmail.com, or zhuzhu930@yahoo.com. 
-
-<!---
-zhuzhu930/zhuzhu930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
